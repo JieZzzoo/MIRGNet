@@ -1,5 +1,5 @@
 # DCRRNet
-Divide and Conquer Reverse Refinement Network for Salient Object Detection in Optical Remote Sensing Images
+This repository is about the work of Divide and Conquer Reverse Refinement Network for Salient Object Detection in Optical Remote Sensing Images.
 
 # Datasets
 The dataset utilized in this study can be accessed from [BaiDuYunlink](https://pan.baidu.com/s/1iP7KRFwkS6K4Hako1XQIgg) (code:2r9f). including ORSSD and EORSSD.
