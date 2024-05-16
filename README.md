@@ -7,6 +7,8 @@ The dataset utilized in this study can be accessed from [BaiDuYunlink](https://p
 # Saliency maps
 We provide saliency maps of our MIRGNet in [BaiDuYunlink](https://pan.baidu.com/s/17VbcRwQe4JwNIIKVFo9C9Q)(code:MIRG) on ORSSD and EORSSD.
 
+![image](https://github.com/JieZzzoo/MIRGNet/assets/66772134/06610ad5-1ac2-48f7-b424-30e9ff4e003e)
+
 # Evaluation Tool
 You can use the evaluation tool [(MATLAB version)](https://github.com/MathLee/MatlabEvaluationTools) to evaluate the above saliency maps.
 
