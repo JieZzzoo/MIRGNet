@@ -2,7 +2,7 @@
 This repository is about the work of Multi-level Interactive Reverse guided network for Salient Object Detection in Optical Remote Sensing Images. The code is on the way......
 
 # Datasets
-The dataset utilized in this study can be accessed from [BaiDuYunlink](链接: https://pan.baidu.com/s/1CO8xPhUwyuZ8uzVBiW0KSg) (code:MIRG). including ORSSD and EORSSD.
+The dataset utilized in this study can be accessed from [BaiDuYunlink](https://pan.baidu.com/s/1CO8xPhUwyuZ8uzVBiW0KSg) (code:MIRG). including ORSSD and EORSSD.
 
 # Saliency maps
 We provide saliency maps of our MIRGNet in [BaiDuYunlink](https://pan.baidu.com/s/17VbcRwQe4JwNIIKVFo9C9Q)(code:MIRG) on ORSSD and EORSSD.
