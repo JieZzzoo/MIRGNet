@@ -1,5 +1,5 @@
 # MIRGNet
-This repository is about the work of Multi-level Interactive Reverse guided network for Salient Object Detection in Optical Remote Sensing Images.
+This project provides the code and results for 'Multi-level Interactive Reverse guided network for Salient Object Detection in Optical Remote Sensing Images', IEEE J-STARS, 2024 ([IEEE Link](https://ieeexplore.ieee.org/abstract/document/10584269)).
 
 🏃 The code is on the way...... 🏃
 
